@@ -1,0 +1,10 @@
+{
+  "name": "@memeddev/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for Memed projects",
+  "main": "index.json",
+  "repository": "https://github.com/MemedDev/prettier-config.git",
+  "author": "Carlos Silva <csilva2810@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
