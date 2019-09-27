@@ -1,5 +1,5 @@
 {
-  "name": "@memeddev/prettier-config",
+  "name": "@memed-dev/prettier-config",
   "version": "1.0.0",
   "description": "Prettier config for Memed projects",
   "main": "index.json",
